@@ -4,5 +4,5 @@ layout: blog
 category: blog
 tags: [hose, nähfrosch, stoffwindeln, stoffwerkstatt]  
 summary: Eine Hose für den Kleinen
-image: /images/Anfang2.jpg
+image: /images/blog/Anfang2.jpg
 ---
