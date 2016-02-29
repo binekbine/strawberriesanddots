@@ -1,5 +1,5 @@
 permalink: /:categories/:title.html
-url: "http://strawberriesanddots.kneesandtoes.at/"
+url: "http://localhost:4000/"
 full_name: "Strawberries and Dots"
 first_name: "Sabine"
 last_name: "Kniepeiss"
