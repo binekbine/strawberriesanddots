@@ -1,4 +1,5 @@
 ---
 title: test3
-layout: post
+layout: blog
+category: blog
 ---
