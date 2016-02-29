@@ -1,0 +1,12 @@
+---
+layout: blog
+title: Wir essen Torte
+category: blog
+tags: [tags for the post, is here]  
+summary: Allen hat es geschmeckt
+image: /images/blog/pulliflieger.jpg
+---
+
+# this test is title
+
+test
