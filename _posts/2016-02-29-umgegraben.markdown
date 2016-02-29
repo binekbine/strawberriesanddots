@@ -6,12 +6,13 @@ tags: [tags for the post, is here]
 summary: Der kleine Maulwurf
 image: /images/blog/fam-jojo.jpg
 ---
+Der Kleine Maulwurf und seine Freunde mit vorgedruckten Applikationen am Stoffrand von stoffundliebe.de
 
-Die Maulwurfkollektion für den Kleinen. Eine braune Sweat-Hose mit Applikationen (die letzte Größe von Nähfrosch)
+Die Maulwurfkollektion für den Kleinen. Einen Pulli aus Sweat mit Applikationen und kleiner Spielerei an den Ärmeln.
 
 ![fam-jojo]({{ site.baseurl }}/images/blog/fam-jojo.jpg)
 
-Einen Pulli aus Sweat ebenfalls mit Applikationen und kleiner Spielerei an den Ärmeln. 
+ Eine braune Sweat-Hose ebenfalls mit Applikationen (die letzte Größe von Nähfrosch, bald muss ich mich nach einem neuen Schnitt um)
 
 ![fam-jojo]({{ site.baseurl }}/images/blog/fam-jojo.jpg)
 
