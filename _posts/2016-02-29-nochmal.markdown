@@ -1,5 +1,0 @@
----
-title: nochmal
-layout: blog
-category: blog
----
