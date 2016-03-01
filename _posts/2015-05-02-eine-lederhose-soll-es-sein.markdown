@@ -15,3 +15,5 @@ Die Cousine tauft sich in Steirisch. Also muss eine Lederhose her. Dies ist eine
 Aus der Hose von Nähfrosch habe ich mit ausgetüftelten Applikationen, Hosenträgern, langen Bündchen zum Aufstricken und Stickereien eine Jersey-Lederhose kreiert, die sowohl günstig als auch sehr bequem ist. Hinten mit angedeuteter Hosentasche
 
 ![fam-jojo]({{ site.baseurl }}/images/blog/lederhose2.jpg)
+
+jjj
