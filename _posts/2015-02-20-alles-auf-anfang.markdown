@@ -4,7 +4,7 @@ layout: blog
 category: blog
 tags: [hose, nähfrosch, stoffwindeln, stoffwerkstatt]  
 summary: Eine Hose für den Stoffwindel-Popo
-image: /images/blog/Anfang2.jpg
+image: /images/blog/Anfang3.jpg
 ---
  
 
