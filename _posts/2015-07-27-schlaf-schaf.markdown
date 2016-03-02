@@ -8,4 +8,5 @@ image: /images/blog/Schaf.jpg
 ---
 ![Schaf]({{ site.baseurl }}/images/blog/Schaf1.jpg)
 
-Ein Schlaffein mit Schaf von Nähglück. 
+Ein *Schlaffein* mit Schaf von *Nähglück*. Der Rand ist mit Bünchen eingefasst, was eine kleine Herausforderung ist, aber mit Ruhe und Geduld hat es geklappt. Der Pyjama ist so süß, dass er auch tagsüber getragen wird. 
+
