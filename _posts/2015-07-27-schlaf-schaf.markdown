@@ -10,3 +10,5 @@ image: /images/blog/Schaf.jpg
 
 Ein *Schlaffein* mit Schaf von *Nähglück*. Der Rand ist mit Bünchen eingefasst, was eine kleine Herausforderung ist, aber mit Ruhe und Geduld hat es geklappt. Der Pyjama ist so süß, dass er auch tagsüber getragen wird. 
 
+Die Schafe habe ich von einem Erholungsbesuch in der *Stoffwerkstatt*. 
+
