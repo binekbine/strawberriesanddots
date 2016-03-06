@@ -11,3 +11,5 @@ Dieser süße Bio-Jerey von mit den gestreiften Ringelbündchen haben mich zur "
 Zuerst zwei Bodys:
 
 ![flieger1]({{ site.baseurl }}/images/blog/flieger1.jpg)
+
+![Schaf]({{ site.baseurl }}/images/blog/Schaf1.jpg)
