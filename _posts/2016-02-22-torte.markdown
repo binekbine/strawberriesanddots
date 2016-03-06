@@ -8,8 +8,8 @@ image: /images/blog/pulliflieger.jpg
 ---
 Dieser süße Bio-Jerey von mit den gestreiften Ringelbündchen haben mich zur "Fliegerkollektion" inspiriert. 
 
-Zuerst zwei Bodys:
+Zuerst zwei Bodys: Einer mit Ringelbünchen und roten Ärmeln und einer mit Ringelärmeln und rotem Bündchen.
 
 ![flieger1]({{ site.baseurl }}/images/blog/flieger1.jpg)
 
-![Schaf]({{ site.baseurl }}/images/blog/Schaf1.jpg)
+![flieger2]({{ site.baseurl }}/images/blog/flieger2.jpg)
