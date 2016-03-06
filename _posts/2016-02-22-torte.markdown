@@ -1,12 +1,10 @@
 ---
 layout: blog
-title: Wir essen Torte
+title: abgehoben
 category: blog
 tags: [tags for the post, is here]  
-summary: Allen hat es geschmeckt
+summary: Die Fliegerkollektion
 image: /images/blog/pulliflieger.jpg
 ---
 
-# this test is title
-
-test
+![flieger1]({{ site.baseurl }}/images/blog/flieger1.jpg)
