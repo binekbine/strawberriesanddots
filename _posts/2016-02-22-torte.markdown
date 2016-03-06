@@ -2,9 +2,12 @@
 layout: blog
 title: abgehoben
 category: blog
-tags: [tags for the post, is here]  
+tags: [stoff und lieben, bio-jersey, jersey, ringelbündchen, regenbogenbody, schnabelina, nähfrosch, hose, cord, stoffwindel, raglanpulli, applikations]  
 summary: Die Fliegerkollektion
 image: /images/blog/pulliflieger.jpg
 ---
+Dieser süße Bio-Jerey von mit den gestreiften Ringelbündchen haben mich zur "Fliegerkollektion" inspiriert. 
+
+Zuerst zwei Bodys:
 
 ![flieger1]({{ site.baseurl }}/images/blog/flieger1.jpg)
