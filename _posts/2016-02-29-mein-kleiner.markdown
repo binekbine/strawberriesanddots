@@ -4,7 +4,7 @@ layout: blog
 category: blog
 tags: [stoffwerkstatt, bodys, kinderstoffe, regenbogenbody, schnabelina]  
 summary: Bodys mit Farbe
-image: /images/blog/fam-jojo.jpg
+image: /images/blog/bodyhaufen.jpg
 ---
 
 Bodys mit schönen Stoffen von den *Stoffwerkstatt*-Mädls. 
