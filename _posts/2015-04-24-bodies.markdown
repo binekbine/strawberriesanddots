@@ -1,5 +1,5 @@
 ---
-title: Bodies
+title: Bodys
 layout: blog
 category: blog
 tags: [body, jersey, kinderstoffe, schnabelina, regenbogenbody]  
@@ -16,3 +16,13 @@ Danke an *Schnabelina* für den tollen Schnitt *Regenbogenbody* und die einfache
 Der Schnitt klappt super, das Ergebnis ist perfekt und ich bin glücklich über ein farbenfrohes, buntes Baby. 
 
 Für den Stoffwindelpopo verlängere ich den Body um eine Größe. So passt er super ohne und mit Stoffwindel. 
+
+![body1]({{ site.baseurl }}/images/blog/body1.jpg)
+
+![body2]({{ site.baseurl }}/images/blog/body2.jpg)
+
+![body5]({{ site.baseurl }}/images/blog/body5.jpg)
+
+![body6]({{ site.baseurl }}/images/blog/body6.jpg)
+
+![body3]({{ site.baseurl }}/images/blog/body3.jpg)
