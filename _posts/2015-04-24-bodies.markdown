@@ -21,7 +21,7 @@ Für den Stoffwindelpopo verlängere ich den Body um eine Größe. So passt er s
 
 ![body2]({{ site.baseurl }}/images/blog/body2.jpg)
 
-![body5]({{ site.baseurl }}/images/blog/body5.jpg)
+![bodie5]({{ site.baseurl }}/images/blog/bodie5.jpg)
 
 ![body6]({{ site.baseurl }}/images/blog/body6.jpg)
 
