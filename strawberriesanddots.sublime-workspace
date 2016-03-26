@@ -15,20 +15,103 @@
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_posts/2016-02-29-test3.markdown",
 			"settings":
 			{
-				"buffer_size": 376,
+				"buffer_size": 162,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Jekyll.sublime-settings",
+			"file": "_posts/2016-02-29-umgegraben.markdown",
 			"settings":
 			{
-				"buffer_size": 419,
-				"line_ending": "Unix",
-				"name": "# some-file.sublime-settings"
+				"buffer_size": 915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: Eine Lederhose soll es sein...\nlayout: blog\ncategory: blog\ntags: [Jersey, Lederhose, Nähfrosch, Stoffwindel, Hose]  \nsummary: ... bequem soll sie sein...\nimage: /images/blog/lederhose1.jpg\n---\n...und vor allem günstig soll sie sein. \n\nDie Cousine tauft sich in Steirisch. Also muss eine Lederhose her. Dies ist eines meines ersten und stolzesten Projekte: \n\n![fam-jojo]({{ site.baseurl }}/images/blog/Pauli1.jpg)\n\nAus der Hose von Nähfrosch habe ich mit ausgetüftelten Applikationen, Hosenträgern, langen Bündchen zum Aufstricken und Stickereien eine Jersey-Lederhose kreiert, die sowohl günstig als auch sehr bequem ist. Hinten mit angedeuteter Hosentasche\n\n![fam-jojo]({{ site.baseurl }}/images/blog/lederhose2.jpg)\n",
+			"file": "_posts/2015-05-02-eine-lederhose-soll-es-sein.markdown",
+			"file_size": 740,
+			"file_write_time": 131013384170000000,
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-03-25-hosen-am-laufenden-band.markdown",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Bine/Dropbox/Pädak/Vorlagen_Latex/BakkPä/BakkPä.tex",
+			"settings":
+			{
+				"buffer_size": 54806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: Alles auf Anfang\nlayout: blog\ncategory: blog\ntags: [hose, nähfrosch, stoffwindeln, stoffwerkstatt, jersey]  \nsummary: Eine Hose für den Stoffwindel-Popo\nimage: /images/blog/Anfang2.jpg\n---\n \n\n Es gibt kaum was entspannenderes als in der Stoffwerkstatt nach Stoffen zu stöbern. Dort hab ich die hübschen Sterne gefunden, von Nähfrosch die perfekte Hose für Stoffwindel-Popos und die Nähmaschine hab ich von meiner Familie zum Geburtstag bekommen...\n\n... und voilà... fertig ist meine erste Hose. Hübsch ist sie geworden und sie sitzt perfekt. \n\n![fam-jojo]({{ site.baseurl }}/images/blog/Anfang1.jpg)",
+			"file": "_posts/2015-02-20-alles-auf-anfang.markdown",
+			"file_size": 611,
+			"file_write_time": 131013405530000000,
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: Bodys\nlayout: blog\ncategory: blog\ntags: [body, jersey, kinderstoffe, schnabelina, regenbogenbody]  \nsummary: kunterbunt und süß\nimage: /images/blog/body.jpg\n---\n\nBodys für Buben mit Racketen, Totenköpfen, Star Wars, Minions und Maschinen in den Farben blau, blau, blau, schwarz, grau und blau haben mich dazu gebracht einen eigenen Body zu nähen. Und da habe ich gemerkt... es ist kinderleicht!!!\n\nDanke an die *Stoffwerkstatt* für die tollen KINDERstoffe. Sie sind bunt, lieb und kindgerecht. \n\nDanke an *Schnabelina* für den tollen Schnitt *Regenbogenbody* und die einfache Anleitung. \n\nDer Schnitt klappt super, das Ergebnis ist perfekt und ich bin glücklich über ein farbenfrohes, buntes Baby. \n\nFür den Stoffwindelpopo verlängere ich den Body um eine Größe. So passt er super ohne und mit Stoffwindel. ",
+			"file": "_posts/2015-04-24-bodies.markdown",
+			"file_size": 1093,
+			"file_write_time": 131018155680000000,
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-07-11-sommerhut.markdown",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-07-27-schlaf-schaf.markdown",
+			"settings":
+			{
+				"buffer_size": 537,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlayout: blog\ntitle: abgehoben\ncategory: blog\ntags: [stoff und lieben, bio-jersey, jersey, ringelbündchen, regenbogenbody, schnabelina, nähfrosch, hose, cord, stoffwindel, raglanpulli, applikation]  \nsummary: Die Fliegerkollektion\nimage: /images/blog/pulliflieger.jpg\n---\nDieser süße Bio-Jerey von mit den gestreiften Ringelbündchen haben mich zur \"Fliegerkollektion\" inspiriert. \n\nZuerst zwei Bodys: Einer mit Ringelbünchen und roten Ärmeln und einer mit Ringelärmeln und rotem Bündchen.\n\n![flieger1]({{ site.baseurl }}/images/blog/flieger1.jpg)\n\n![flieger2]({{ site.baseurl }}/images/blog/flieger2.jpg)\n\nEine Hose aus Cord. Auch hier habe ich wieder *nähfrosch* verwendet. Durch den Cord ist die Hose aber nicht so schön dehnbar und deshalb für Stoffwindeln ein bisschen eng. So ist sie eben die perfekte Hose für unterwegs und die Kinderkrippe. \nEs gab noch 2 weitere hosen aus hellgrünem Cord. Die trägt jetzt aber ein anderes Baby, weil ich mich beim Bünchen vertan habe, jetzt ist es für mein Kind zu kurz. Aber... wer weiß... ich weiß... dass es den grünen Cord in der *stoffwerkstatt* noch gibt... \n\n![flieger3]({{ site.baseurl }}/images/blog/flieger3.jpg)\n\nDie ganze Fliegerei hat mich zu dieser Applikation für den Pullover inspiriert. \n\n ![flieger4]({{ site.baseurl }}/images/blog/flieger4.jpg)\n",
+			"file": "_posts/2016-02-22-torte.markdown",
+			"file_size": 1331,
+			"file_write_time": 131017669140000000,
+			"settings":
+			{
+				"buffer_size": 1309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-08-15-Buntbuntbunt.markdown",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -39,13 +122,13 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 307.0,
+		"height": 327.0,
 		"last_filter": "jeky",
 		"selected_items":
 		[
 			[
 				"jeky",
-				"Jekyll: New post"
+				"Jekyll: Insert upload"
 			],
 			[
 				"jek",
@@ -68,7 +151,7 @@
 				"Jekyll Utility: Migrate user settings"
 			]
 		],
-		"width": 449.0
+		"width": 458.0
 	},
 	"console":
 	{
@@ -90,11 +173,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Bine/strawberriesanddots",
-		"/Users/Bine/strawberriesanddots/_posts"
+		"/Users/Bine/SparkleShare/strawberriesanddots",
+		"/Users/Bine/SparkleShare/strawberriesanddots/_posts"
 	],
 	"file_history":
 	[
+		"/Users/Bine/SparkleShare/strawberriesanddots/_posts/2016-02-29-nochmal.markdown",
+		"/Users/Bine/SparkleShare/strawberriesanddots/_posts/2016-02-29-test-neues-posting.markdown",
+		"/Users/Bine/SparkleShare/strawberriesanddots/_config.yml",
+		"/Users/Bine/SparkleShare/strawberriesanddots/_posts/2016-02-29-test.markdown",
+		"/Users/Bine/SparkleShare/strawberriesanddots/Jekyll.sublime-settings",
 		"/Users/Bine/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/Bine/strawberriesanddots/_posts/2013-01-15-start-bloggin.md"
 	],
@@ -135,7 +223,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -162,29 +250,113 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_config.yml",
+					"file": "_posts/2016-02-29-test3.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 376,
+						"buffer_size": 162,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								181,
-								181
+								39,
+								39
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2016-02-29-umgegraben.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2015-05-02-eine-lederhose-soll-es-sein.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2015-03-25-hosen-am-laufenden-band.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -194,34 +366,199 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "Jekyll.sublime-settings",
+					"buffer": 5,
+					"file": "/Users/Bine/Dropbox/Pädak/Vorlagen_Latex/BakkPä/BakkPä.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 419,
+						"buffer_size": 54806,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								192,
-								192
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "# some-file.sublime-settings",
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_posts/2015-02-20-alles-auf-anfang.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_posts/2015-04-24-bodies.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_posts/2015-07-11-sommerhut.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_posts/2015-07-27-schlaf-schaf.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_posts/2016-02-22-torte.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_posts/2015-08-15-Buntbuntbunt.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
