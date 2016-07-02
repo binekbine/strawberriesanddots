@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174.49066mm"
+   height="190.34904mm"
+   viewBox="0 0 618.274 674.46512"
+   id="svg24601"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="singleflowerturkis2.svg">
+  <defs
+     id="defs24603" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-152.29726"
+     inkscape:cy="171.51832"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata24606">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.582971,-29.415386)">
+    <g
+       transform="matrix(0,-3.3465973,-3.3465973,0,3278.4723,4405.7315)"
+       id="g21009">
+      <path
+         sodipodi:nodetypes="sssssssssss"
+         inkscape:connector-curvature="0"
+         id="path21011"
+         d="m 1254.5593,905.02049 c -7.0051,13.40104 54.3542,30.80755 -1.4158,62.89819 -52.6297,30.28372 -41.6542,-40.04054 -56.564,-42.56158 -14.9099,-2.52111 -18.1137,85.059 -66.0747,35.73019 -52.3726,-53.86637 26.198,-51.68883 23.9883,-66.64802 -2.2098,-14.95917 -68.0135,11.27515 -42.4504,-48.91807 30.3205,-71.3953 50.6041,1.41832 64.1482,-5.30587 13.5442,-6.72419 -9.7273,-54.84102 42.3489,-48.14206 73.4948,9.45419 13.1996,41.90032 23.7801,52.70372 10.5804,10.80339 42.6069,-43.4035 61.4673,19.86739 19.8706,66.65961 -42.2228,26.97504 -49.2279,40.37611 z"
+         inkscape:transform-center-y="6.8654356"
+         inkscape:transform-center-x="7.8329341"
+         style="fill:#72a08d;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="27.560139"
+         rx="36.746853"
+         cy="876.14355"
+         cx="1202.3787"
+         id="ellipse21013"
+         style="fill:#efc043;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

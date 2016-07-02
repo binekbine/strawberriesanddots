@@ -1,28 +1,23 @@
 ---
-title: Bodys
+title: Bunt, bunt, bunt sind alle meine Kleider
 layout: blog
 category: blog
-tags: [body, jersey, kinderstoffe, schnabelina, regenbogenbody]  
-summary: kunterbunt und süß
-image: /images/blog/body.jpg
+tags: [body, jersey, kinderstoffe, schnabelina, regenbogenbody, stoffwerkstatt]  
+summary: Bodys mit Farbe
+image: /images/blog/bodyhaufen.jpg
 ---
 
-Bodys für Buben mit Racketen, Totenköpfen, Star Wars, Minions und Maschinen in den Farben blau, blau, blau, schwarz, grau und blau haben mich dazu gebracht einen eigenen Body zu nähen. Und da habe ich gemerkt... es ist kinderleicht!!!
+Bodys für Buben mit Racketen, Totenköpfen, Star Wars, Minions und Maschinen in den Farben blau, blau, blau, schwarz, grau und blau haben mich dazu gebracht einen eigenen Body zu nähen.
 
-Danke an die *Stoffwerkstatt* für die tollen KINDERstoffe. Sie sind bunt, lieb und kindgerecht. 
+Danke an die *Stoffwerkstatt* für die tollen KINDERstoffe. Sie sind bunt, lieb und kindgerecht.
 
-Danke an *Schnabelina* für den tollen Schnitt *Regenbogenbody* und die einfache Anleitung. 
+Danke an *Schnabelina* für den tollen Schnitt *Regenbogenbody* und die tolle Anleitung.
+Der Schnitt klappt super, das Ergebnis ist perfekt und ich bin glücklich über ein farbenfrohes, buntes Baby.
 
-Der Schnitt klappt super, das Ergebnis ist perfekt und ich bin glücklich über ein farbenfrohes, buntes Baby. 
+Für den Stoffwindelpopo verlängere ich den Body um eine Größe. So passt er super ohne und mit Stoffwindel.
 
-Für den Stoffwindelpopo verlängere ich den Body um eine Größe. So passt er super ohne und mit Stoffwindel. 
+![body1]({{ site.baseurl }}/images/blog/body.jpg)
 
-![body1]({{ site.baseurl }}/images/blog/body1.jpg)
+Und weil es so einfach war und Spaß macht, gibts noch mehr:
 
-![body2]({{ site.baseurl }}/images/blog/body2.jpg)
-
-![bodie5]({{ site.baseurl }}/images/blog/bodie5.jpg)
-
-![body6]({{ site.baseurl }}/images/blog/body6.jpg)
-
-![body3]({{ site.baseurl }}/images/blog/body3.jpg)
+![body1]({{ site.baseurl }}/images/blog/bodyscoll.jpg)
