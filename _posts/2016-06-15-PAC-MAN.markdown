@@ -1,0 +1,11 @@
+---
+title: Pac-Man
+layout: blog
+category: blog
+tags: [nähfrosch, stoffwindelhose, regenbogenbody, schnabelina, applikation]  
+summary: willkommen baby
+image: /images/blog/pacman1.jpg
+---
+Als kleines Willkommensgeschenk für das neueste Familienmitglied von Freunden gibt es diese bunte Kombination mit einer Stoffwindelhose von *Nähfrosch* und einem Body von *Schnabelina*. Die Applikation ist von mir.
+
+![PacMan]({{ site.baseurl }}/images/blog/pacman2.jpg)

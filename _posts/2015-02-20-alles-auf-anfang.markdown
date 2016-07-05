@@ -12,4 +12,4 @@ image: /images/blog/Anfang2.jpg
 
 ... und voilà... fertig ist meine erste Hose. Hübsch ist sie geworden und sie sitzt perfekt.
 
-![anfang]({{ site.baseurl }}/images/blog/Anfang1.jpg)
+![anfang]({{ site.baseurl }}/images/blog/Anfang4.jpg)
