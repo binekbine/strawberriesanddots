@@ -1,12 +1,15 @@
 permalink: /:categories/:title.html
-url: "http://localhost:4000/"
-full_name: "Strawberries and Dots"
-first_name: "Sabine"
-last_name: "Kniepeiss"
-blog_title: "Strawberries and Dots"
-author_img_name_path: "/images/users/user.jpg"
-disqus_shortname: "pasinduland"
+url: http://strawberriesanddots.at
+full_name: Strawberries and Dots
+first_name: Sabine
+last_name: Kniepeiss
+blog_title: Strawberries and Dots
+author_img_name_path: /images/users/user.jpg
+disqus_shortname: pasinduland
 google_analytics_code: ""
 aboutme: "Ich nähe gerne"
 timezone: "Europe/Vienna"
 encoding: "utf-8"
+sass:
+  sass_dir:   _sass
+  style:      :compressed

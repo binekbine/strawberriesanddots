@@ -1,2 +1,18 @@
-<div id='heading'>
-	<div id='logo'><a href='{{site.url}}'>{{site.blog_title}}</a></div>
+<html>
+	<head>
+		<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/styles.css">
+		<link href="/blog/rss.xml" rel="alternate" type="application/rss+xml" title="{{site.blog_title}}" />
+		<title>{{site.blog_title}}</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script type="text/javascript" src='/js/jquery.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.masonry.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.imagesloaded.min.js'></script>
+	</head>
+	<body>
+
+  <header class="header">
+    <div id="sun">
+      {% include nav.html %}
+    </div>
+		<br>
+  </header>
