@@ -1,0 +1,18 @@
+---
+title: T-shirt für Große
+layout: blog
+category: blog
+tags: [jersey, t-shirt sebastian, v-ausschnitt, rockerbuben, plotten, himmelgrau]  
+summary: plotten und nähen
+image: /images/blog/plotten1.jpg
+---
+
+Geschenke werden bei mir am liebsten nur mehr selbst genäht. Für meinen ganz besonderen Menschen zu einem ganz besonderen Anlass soll es dann auch was ganz besonderes sein:
+
+Das *T-shirt Sebastian* von *Rockerbuben* ist schnell genäht. Diesmal hab ich auch beim Ausschnitt darauf geachtet, dass er nicht zu tief sitzt.
+
+Für den ganz besonderen Schliff habe ich Hilfe bei *Himmelgrau* gefunden. Eine selbst entworfene Zeichnung hat mir die liebe Kathi von *Himmelgrau* schnell und einfach auf das T-shirt geplottet. Danke!
+
+Schenken macht so noch viel mehr Spaß!
+
+![plittenmix]({{ site.baseurl }}/images/blog/plottenmix.jpg)

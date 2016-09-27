@@ -1,0 +1,16 @@
+---
+title: Beuteltasche
+layout: blog
+category: blog
+tags: [webstoff, reste verwerten, beuteltasche, frau fadenschein]  
+summary: ein Beutel voll Stolz
+image: /images/blog/Beutel.jpg
+---
+
+Für den kommenden Urlaub ist alles gepackt. Aber irgdenwie fehlt mir die passende Tasche für unterwegs. Kurzerhand (am Abend vor der Abreise) habe ich beschlossen eine Beuteltasche muss her. Dank der spitzen Anleitung von *Frau Fadenschein* habe ich mir im Handumdrehen ein ... naja, nicht ganz so schnell. Ein bisschen kniffelig war es doch:
+
+Die Enden der Kordeln wollte ich nicht verknoten, also habe sie in die kleinen Schlaufen genäht. Das war nicht nur für mich eine Herausforderung. Auch meine Nähmaschine hat geschwitzt. Die Außentasche hat mich ebenfalls eine Erfahrung reicher gemacht: 1. Glettverschluss an die Tasche nähen und dann erst an die Außentasche, denn sonst muss alles mit der Hand genäht werden, was sehr mühsam ist.
+
+Nachdem diese Hürden überwunden sind, bin ich aber richtig, richtig stolz auch meine erste Beuteltasche. Der Urlaub kann also kommen ich bin gebeutelt.
+
+![beutelmix]({{ site.baseurl }}/images/blog/beutelmix.jpg)

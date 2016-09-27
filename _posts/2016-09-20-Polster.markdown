@@ -1,0 +1,15 @@
+---
+title: Bettwäsche - nicht perfekt...
+layout: blog
+category: blog
+tags: [bettwösche, jersey, zwergenverpackung, farbenmix, freebook, stoffundliebe, sandmännchen]  
+summary: ... aber mit viel Liebe
+image: /images/blog/polster.jpg
+---
+
+Ich wollte schon lange mal für den kleinen Mann Bettwäsche selber nähen. Mit der Anleitung im Freebook von *farbenmix* geht es auch wirklich ganz einfach. Da ich bunte Jersey-Bettwäsche bevorzuge, wollte ich auch unmedingt Jersey vernähen. Damit ist es dann nicht mehr ganz so einfach, weil sich beim Umnähen vom Reißverschluss immer wieder Falten bilden. Bei der Decke werde ich einen breiteren Streifen Vliseline zum Verstärken nehmen. Vielleicht ist es dann besser ...
+
+![polstermix]({{ site.baseurl }}/images/blog/polstermix.jpg)
+
+SM: *Zwergenverpackung - Bettwäsche zum Wenden* von *farbenmix*\\
+Stoff: *Unser Sandmännchen* von *stoff und liebe*
