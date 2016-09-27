@@ -1,4 +1,4 @@
-<nav>
+<nav class="main-nav title-font">
   <ul>
     {% for nav in site.data.nav %}
     {% if nav.subcategories != null %}
@@ -14,11 +14,11 @@
     <li class="active">
       <a href="{{ nav.url }}">{{ nav.title }}</a>
     </li>
-    {% else %} 
+    {% else %}
     <li>
       <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
     </li>
     {% endif %}
     {% endfor %}
   </ul>
-</nav> 
+</nav>

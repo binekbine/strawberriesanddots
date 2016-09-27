@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="600"
-   viewBox="0 0 999.9999 600.00001"
+   width="977.4259"
+   height="574.83118"
+   viewBox="0 0 977.42581 574.83119"
    id="svg9577"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cloud.svg"
+   sodipodi:docname="cloud-filled.svg"
    inkscape:export-filename="/Users/quaqua/devel/clients/strawberriesanddots/images/site/cloud.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="258.08883"
-     inkscape:cy="52.110812"
+     inkscape:zoom="0.89712419"
+     inkscape:cx="513.78211"
+     inkscape:cy="286.52481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,11 +60,11 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(177.37455,68.44096)">
+     transform="translate(192.96862,62.516882)">
     <path
-       style="fill:#fbf3da;fill-opacity:1;stroke:none"
-       d="m -177.37461,-68.44096 0,600 1000,0 0,-600 -1000,0 z m 492.54687,17.76571 A 220.51109,185.03541 0 0 1 533.52417,110.17895 332.92852,204.77251 0 0 1 812.40198,311.99288 332.92852,204.77251 0 0 1 479.47355,516.76648 332.92852,204.77251 0 0 1 204.40304,427.00015 220.51109,204.77251 0 0 1 60.069507,477.29137 220.51109,204.77251 0 0 1 -160.44084,272.51972 220.51109,204.77251 0 0 1 60.069507,67.748057 220.51109,204.77251 0 0 1 107.54434,72.696883 220.51109,185.03541 0 0 1 315.17226,-50.67525 Z"
-       id="rect3493"
+       id="path9136"
+       d="M 284.94006,-60.016881 A 220.41644,185.81462 0 0 0 77.402642,63.875553 220.41644,205.63484 0 0 0 29.947957,58.904426 220.41644,205.63484 0 0 0 -190.46868,264.53834 220.41644,205.63484 0 0 0 29.947957,470.17347 220.41644,205.63484 0 0 0 174.21833,419.67061 332.7856,205.63484 0 0 0 449.17166,509.81431 332.7856,205.63484 0 0 0 781.95723,304.17918 332.7856,205.63484 0 0 0 503.19965,101.51404 220.41644,185.81462 0 0 0 284.94006,-60.016881 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

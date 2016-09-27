@@ -3,24 +3,259 @@
 
 $bg-color: #FBF3DA;
 
-@import 'reset.css';
+@import 'reset.scss';
 
 body{
 	background-color: $bg-color;
 	margin: 0;
+	width: 100%;
+	overflow-x: hidden;
+	font-family: 'Slabo 27px', serif;
+}
+
+.title-font{
+	font-family: 'Baloo Bhai', cursive;
 }
 
 #sun{
 	background-image: url('/images/site/sun.svg');
-	width: 515px;
-	height: 300px;
+	width: 630px;
+	height: 480px;
 	background-size: cover;
-	background-position: 0 -50px;
+	background-repeat: no-repeat;
 	position: absolute;
+	z-index: 7;
+	left: 50%;
+	margin-left: 150px;
+	top: -60px;
+}
+
+#logo{
+	position: absolute;
+	top: 6	0px;
+	left: 100px;
+	transform: rotate(-18deg);
+	color: #000;
+	font-size: 62px;
+	text-decoration: none;
+	text-align: center;
+	z-index: 8;
+}
+
+#strawberries{
+	background-image: url('/images/site/strawberries1.svg');
+	width: 200px;
+	height: 100px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	z-index: 9;
+	left: 100px;
+	top: 60px;
+}
+
+#bird{
+	background-image: url('/images/site/birdred.svg');
+  width: 100px;
+  height: 120px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 9;
+  left: 121px;
+  top: 253px;
+}
+
+#little-cloud{
+	background-image: url('/images/site/cloud-filled.svg');
+  width: 118px;
+  height: 70px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 9;
+  left: 100px;
+  top: 370px;
+}
+
+.main-nav{
+	margin: 80px 200px 50px 290px;
+}
+
+.main-nav li{
+	text-align: center;
+	padding: 7px 0;
+}
+
+.main-nav a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 1em;
+	padding: 0;
+	text-transform: uppercase;
+	transition: all 0.3s;
+	position: relative;
+}
+
+.main-nav a:after{
+	content:'';
+  position:absolute;
+  width: 100%;
+  height: 0;
+  left:0;
+  bottom: 4px;
+	border-bottom: 3px solid transparent;
+}
+
+.main-nav a:hover{
+	color: #ed6814;
+	transition: all 0.3s;
+}
+
+.main-nav a:hover:after{
+	transition: all 0.3s;
+	border-bottom-color: #ed6814;
+}
+
+#banner{
+	background-image: url('/images/site/banner.svg');
+	width: 100px;
+	background-size: contain;
+	background-repeat: repeat-y;
+	position: fixed;
 	z-index: -1;
-	left: -80px;
+	left: 0;
+	top: 0;
+	bottom: 0;
+}
+
+.teaser-cloud-wrap{
+	width: 500px;
+	height: 300px;
+	margin: 100px auto 50px 20%;
+	position: relative;
+}
+
+.teaser-cloud-wrap .abs{
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 
 .teaser-cloud{
-	clip-path: url('#cloudClip');
+	width: 650px;
+	height: 390px;
+	background-image: url('/images/site/cloud.svg');
+	background-size: cover;
+	z-index: 5;
+}
+
+.teaser-cloud-img{
+	width: 650px;
+	height: 390px;
+	background-size: cover;
+	z-index: 4;
+}
+
+.teaser-cloud-outline.abs{
+	width: 665px;
+	height: 398px;
+	top: -5px;
+	left: -6px;
+	z-index: 6;
+	background-image: url('/images/site/cloud-outline.svg');
+	background-size: cover;
+}
+
+.teaser-cols-wrap{
+	margin: 200px auto 50px 10%;
+	width: 810px;
+	position: relative;
+}
+
+.teaser-cols{
+	display: flex;
+}
+
+.teaser-cols .col{
+	flex: 1 1 30%;
+	margin: 20px;
+	background-color: #efc043;
+	border-top: 5px solid #f29f35;
+	border-bottom: 20px solid #f29f35;
+	border-radius: 3px;
+	position: relative;
+}
+
+.teaser-cols .col2:before{
+	background-image: url('/images/site/singleflowerbrown2.svg');
+	width: 80px;
+	height: 75px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	bottom: -50px;
+	right: 20px;
+	content: ' ';
+}
+
+.teaser-cols .col1:before{
+	background-image: url('/images/site/strawberry2.svg');
+	width: 62px;
+	height: 70px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: -50px;
+	right: 20px;
+	content: ' ';
+}
+
+.teaser-cols .col2{
+	background-color: #d5c651;
+	border-top: 5px solid #c2b229;
+	border-bottom: 20px solid #c2b229;
+}
+
+.teaser-cols .col3{
+	background-color: #eb8401;
+	border-top: 5px solid #e25a01;
+	border-bottom: 20px solid #e25a01;
+}
+
+.teaser-cols h2{
+	font-size: 24px;
+	color: #fff;
+	margin: 20px 20px 20px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.teaser-col-content{
+	padding: 5px;
+}
+
+.teaser-col-img{
+	margin-top: 5em;
+	width: 100%;
+	height: 150px;
+	background-size: cover;
+}
+
+.teaser-col-text{
+	padding: 20px 10px;
+}
+
+#teaser-cols-tree{
+	background-image: url('/images/site/tree.svg');
+	width: 530px;
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	right: -400px;
+	top: -90px;
 }
