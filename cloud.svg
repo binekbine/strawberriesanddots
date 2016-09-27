@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 550.78967 301.69467"
+   id="teaser-cloud"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cloud.svg"
+   width="550.78967"
+   height="301.69467">
+  <metadata
+     id="metadata3372">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3370"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.484375"
+     inkscape:cx="316.69045"
+     inkscape:cy="127.30768"
+     inkscape:window-x="20"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="teaser-cloud" />
+  <defs
+     id="defs3360">
+    <path
+       id="thePath"
+       d="M 358.79651,-56.136586 A 240.04182,187.67903 0 0 0 132.78043,68.998947 240.04182,207.69811 0 0 0 81.100488,63.977941 240.04182,207.69811 0 0 0 -158.94155,271.67513 240.04182,207.69811 0 0 0 81.100488,479.37354 240.04182,207.69811 0 0 0 238.21637,428.36395 362.41609,207.69811 0 0 0 537.65093,519.41212 362.41609,207.69811 0 0 0 900.06698,311.71371 362.41609,207.69811 0 0 0 596.48945,107.01509 240.04182,187.67903 0 0 0 358.79651,-56.136586 Z"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#105fbc;stroke-width:10px" />
+  </defs>
+  <clipPath
+     id="cloudClip">
+    <use
+       xlink:href="#thePath"
+       id="use3364"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </clipPath>
+  <use
+     xlink:href="#thePath"
+     id="use3368"
+     transform="matrix(0.51523414,0,0,0.51523414,84.468284,31.499658)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>

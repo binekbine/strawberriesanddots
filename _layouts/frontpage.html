@@ -1,0 +1,55 @@
+{% include header.html %}
+
+<div class="teaser-cloud-wrap">
+  <div class="abs teaser-cloud"></div>
+  <div class="abs teaser-cloud-img" style="background-image:url({{page.images[0]}})"></div>
+  <div class="abs teaser-cloud-outline"></div>
+</div>
+
+<div class="teaser-cols-wrap">
+
+  <div id="teaser-cols-tree"></div>
+
+  <div class="teaser-cols">
+    {% for post in site.categories.blog limit:3  %}
+      {% assign postIndex = {{forloop.index}} %}
+      <div class="col col{{postIndex}}">
+        <h2 class="title-font">{{post.title}}</h2>
+        <div class="teaser-col-content">
+          {% if post.image %}
+            <div class="teaser-col-img" style="background-image: url({{post.image}})"></div>
+          {% endif %}
+          <div class="teaser-col-text">
+            {{post.summary}}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!--
+<div id='content'>
+	<div id='posts'>
+		<ul>
+			{% for post in site.categories.blog %}
+				<li class='post'>
+					{% if post.image %}
+						<a href='{{post.url}}'><img class='post&#45;image' src="{{post.image}}" /></a>
+					{% endif %}
+					<div class="postcontent">
+			<a href='{{post.url}}'><h1 class='post&#45;title'>{{post.title}}</h1></a>
+						<div class='post&#45;date'>{{ post.date | date: "%B %d, %Y"}}</div>
+						<div class='post&#45;content'>{{post.summary}}</div>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div style='clear:both'></div>
+</div>
+<div id='footer'>
+	{{site.full_name}} &#45; {{site.time | date_to_string}}
+</div>
+-->
+{% include footer.html %}

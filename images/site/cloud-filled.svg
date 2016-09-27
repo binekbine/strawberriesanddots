@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1089.0354"
-   height="606.02185"
-   viewBox="0 0 1089.0353 606.02186"
+   width="977.4259"
+   height="574.83118"
+   viewBox="0 0 977.42581 574.83119"
    id="svg9577"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cloud.svg">
+   sodipodi:docname="cloud-filled.svg"
+   inkscape:export-filename="/Users/quaqua/devel/clients/strawberriesanddots/images/site/cloud.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs9579" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="725.23197"
-     inkscape:cy="567.76812"
+     inkscape:zoom="0.89712419"
+     inkscape:cx="513.78211"
+     inkscape:cy="286.52481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,11 +60,11 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(180.23197,77.320131)">
+     transform="translate(192.96862,62.516882)">
     <path
        id="path9136"
-       d="M 358.79651,-56.136586 A 240.04182,187.67903 0 0 0 132.78043,68.998947 240.04182,207.69811 0 0 0 81.100488,63.977941 240.04182,207.69811 0 0 0 -158.94155,271.67513 240.04182,207.69811 0 0 0 81.100488,479.37354 240.04182,207.69811 0 0 0 238.21637,428.36395 362.41609,207.69811 0 0 0 537.65093,519.41212 362.41609,207.69811 0 0 0 900.06698,311.71371 362.41609,207.69811 0 0 0 596.48945,107.01509 240.04182,187.67903 0 0 0 358.79651,-56.136586 Z"
-       style="fill:none;fill-opacity:1;stroke:#4ab9d5;stroke-width:18.01751518;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 284.94006,-60.016881 A 220.41644,185.81462 0 0 0 77.402642,63.875553 220.41644,205.63484 0 0 0 29.947957,58.904426 220.41644,205.63484 0 0 0 -190.46868,264.53834 220.41644,205.63484 0 0 0 29.947957,470.17347 220.41644,205.63484 0 0 0 174.21833,419.67061 332.7856,205.63484 0 0 0 449.17166,509.81431 332.7856,205.63484 0 0 0 781.95723,304.17918 332.7856,205.63484 0 0 0 503.19965,101.51404 220.41644,185.81462 0 0 0 284.94006,-60.016881 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

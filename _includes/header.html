@@ -1,2 +1,24 @@
-<div id='heading'>
-	<div id='logo'><a href='{{site.url}}'>{{site.blog_title}}</a></div>
+<html>
+	<head>
+		<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Slabo+27px" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/styles.css">
+		<link href="/blog/rss.xml" rel="alternate" type="application/rss+xml" title="{{site.blog_title}}" />
+		<title>{{site.blog_title}}</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script type="text/javascript" src='/js/jquery.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.masonry.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.imagesloaded.min.js'></script>
+	</head>
+	<body>
+
+  <header class="header">
+		<a href="/" class="title-font" id="logo">strawberries<br>and dots</a>
+		<div id="bird"></div>
+		<div id="little-cloud"></div>
+    <div id="sun">
+      {% include nav.html %}
+    </div>
+		<br>
+  </header>
+
+	<div id="banner"></div>
