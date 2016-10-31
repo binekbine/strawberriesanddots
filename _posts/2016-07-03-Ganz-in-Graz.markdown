@@ -1,10 +1,21 @@
 ---
 title: Ganz in Graz
+date: 2016-07-03 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- stoffwerkstatt
+- himmelgrau
+- eigenproduktion
+- grazstoff
+- schnabelina regenbogenbody
+- lederhose
+- nähfrosch
+- stoffwindelhose
 layout: blog
-category: blog
-tags: [jersey, stoffwerkstatt, himmelgrau, eigenproduktion, grazstoff, schnabelina regenbogenbody, lederhose, nähfrosch, stoffwindelhose]  
 summary: perfekt für jeden Anlass
-image: /images/blog/lederhosegraz.jpg
+image: "/images/blog/lederhosegraz.jpg"
 ---
 
 Man glaubt es kaum, aber die Lederhose vom letzten Jahr passt meinem kleinen Großen noch immer. Sie ist jetzt zwar eng und kurz, aber das ist eine richtige Lederhose auch. Hmmm ... nur oben fehlt's, da muss was besonderes her ..., was graz besonderes ...

@@ -1,10 +1,22 @@
 ---
 title: Sommerlich kurz
+date: 2016-07-06 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- marina
+- mathila
+- kurze hose
+- t-shirt
+- tanktop
+- bilderbuchstoff
+- wandelstar
+- e.i.n.(e.) näht
+- ottobre
 layout: blog
-category: blog
-tags: [jersey, marina, mathila, kurze hose, t-shirt, tanktop, bilderbuchstoff, wandelstar, e.i.n.(e.) näht, ottobre, ]  
 summary: kurze Hose, kurzes Shirt
-image: /images/blog/kurzehose1.jpg
+image: "/images/blog/kurzehose1.jpg"
 ---
 
 Für den Sommer gibts ein paar bunte, kurze Hosen und Leibchen aus Jersey. Die Hose *Marina* von *MaThiLa* ist einfach niedlich und wird gleich in mehreren Designs präsentiert:

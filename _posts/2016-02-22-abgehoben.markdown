@@ -1,11 +1,26 @@
 ---
-layout: blog
 title: abgehoben
-category: blog
-tags: [stoff und lieben, bio-jersey, jersey, ringelbündchen, regenbogenbody, schnabelina, nähfrosch, hose, cord, stoffwindel, raglanpulli, applikations]  
+date: 2016-02-22 00:00:00 +01:00
+categories:
+- blog
+tags:
+- stoff und lieben
+- bio-jersey
+- jersey
+- ringelbündchen
+- regenbogenbody
+- schnabelina
+- nähfrosch
+- hose
+- cord
+- stoffwindel
+- raglanpulli
+- applikations
+layout: blog
 summary: Die Fliegerkollektion
-image: /images/blog/pulliflieger.jpg
+image: "/images/blog/pulliflieger.jpg"
 ---
+
 Dieser süße Bio-Jerey von mit den gestreiften Ringelbündchen haben mich zur "Fliegerkollektion" inspiriert.
 
 Zuerst zwei Bodys: Einer mit Ringelbünchen und roten Ärmeln und einer mit Ringelärmeln und rotem Bündchen.

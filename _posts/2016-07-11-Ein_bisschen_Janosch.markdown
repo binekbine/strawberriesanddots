@@ -1,10 +1,25 @@
 ---
 title: Ein bisschen Janosch
+date: 2016-07-11 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- janosch
+- latzhose
+- ottobre
+- kurze hose
+- raglanshirt
+- marina
+- mathila
+- stoff-hemmers
+- stoffwerkstatt
+- multilatz
+- fadenkaefer
+- madame jordan
 layout: blog
-category: blog
-tags: [jersey, janosch, latzhose, ottobre, kurze hose, raglanshirt, marina, mathila, stoff-hemmers, stoffwerkstatt, multilatz, fadenkaefer, madame jordan]  
 summary: Kindheitserinnerungen
-image: /images/blog/janoschtitel.jpg
+image: "/images/blog/janoschtitel.jpg"
 ---
 
 Für den ersten Fototermin in der Kinderkrippe musste es etwas ganz besonderes sein. Die *Multilatz* von *Fadenkäfer* war perfekt aber halt der richtige Stoff hat gefehlt. Was bin ich ausgeflippt,  als ich in der *Stoffwerkstatt* Janosch entdeckt habe. Nach einem großzügigen Einkauf habe ich auch gleich bei *Stoff-Hemmers* eine Onlinebestellung getätigt, damit ich ja genug habe!!! Auf Janosch warte ich seit Anbeginn meiner Nähkarriere. Und weil ich Janosch so lieb hab, muss der Kleine jetzt ganz viel Janosch tragen:

@@ -1,12 +1,17 @@
 ---
 title: Alles auf Anfang
+date: 2015-02-20 00:00:00 +01:00
+categories:
+- blog
+tags:
+- hose
+- nähfrosch
+- stoffwindeln
+- stoffwerkstatt
 layout: blog
-category: blog
-tags: [hose, nähfrosch, stoffwindeln, stoffwerkstatt]  
 summary: Eine Hose für den Stoffwindel-Popo
-image: /images/blog/Anfang2.jpg
+image: "/images/blog/Anfang2.jpg"
 ---
-
 
  Es gibt kaum was entspannenderes als in der *Stoffwerkstatt* nach Stoffen zu stöbern. Dort hab ich die hübschen Sterne gefunden, von *Nähfrosch* die perfekte Hose für Stoffwindel-Popos und die Nähmaschine hab ich von meiner Familie zum Geburtstag bekommen...
 

@@ -1,10 +1,18 @@
 ---
 title: Jogginhose
+date: 2016-09-19 00:00:00 +02:00
+categories:
+- blog
+tags:
+- yoga.hose
+- leni pepunkt
+- jersey
+- nicki
+- stoffwerkstatt
+- framilastic
 layout: blog
-category: blog
-tags: [yoga.hose, leni pepunkt, jersey, nicki, stoffwerkstatt, framilastic, ]  
 summary: einfach, schnell und bequem
-image: /images/blog/yoga.jpg
+image: "/images/blog/yoga.jpg"
 ---
 
 Es ist mal wieder (Näh)Zeit für mich: Eine bequeme Hose für Yoga, Bewegung, Faulenzen und Schlafen. Grundsätzlich ist es eine schnelle Hose, die gut sitzt und bequem ist. Das Nur das Fußbündchen (das im Schnittmuster enthalten ist) wollte sich einfach nicht auf die breite der Beinöffnung dehnen lassen. Bei meiner ersten Hose habe ich deswegen ein breiteres Bündchen genommen, damit ich es auf auf die Beinöffnung dehnen konnte. Nur jetzt rutscht dieses immer über meine Füße.

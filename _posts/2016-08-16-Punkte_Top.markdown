@@ -1,10 +1,17 @@
 ---
 title: Tip-Top - für mich
+date: 2016-08-16 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- lady topas
+- trägershirt
+- mialuna
+- freebook
 layout: blog
-category: blog
-tags: [jersey, lady topas, trägershirt, mialuna, freebook]  
 summary: und nur für mich
-image: /images/blog/punkttop.jpg
+image: "/images/blog/punkttop.jpg"
 ---
 
 Endlich mal für mich und nur für mich ein tolles Trägershirt aus süßen Pünktchenstoff. Das Freebook von *mialuna* zu *lady topas* ist leicht verständlich. Ich habe für untenrum eine Größe mehr genommen, damit es luftiger sitzt. die Raffung am Halsausschnitt ist ein bisschen tricky aber die Perfektion kommt bestimmt mit der Übung.

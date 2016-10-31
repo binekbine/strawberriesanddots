@@ -1,14 +1,6 @@
 ---
-title: Boxershorts
-layout: blog
-category: blog
-<<<<<<< HEAD
-tags: [jersey, reste verwerten, boxershort, harry boxer, wetterhexchen]  
-=======
-tags: [jersey, janosch, latzhose, ottobre, kurze hose, raglanshirt, marina, mathila, stoff-hemmers, stoffwerkstatt, multilatz, fadenkaefer, madame jordan]  
->>>>>>> 8eb226167c7c36ee052831034c69dc28270a70df
-summary: Hosen für unten drunter
-image: /images/blog/Boxertitel.jpg
+title: 2016 07 15 Unterhosen
+date: 2016-10-31 09:46:13.559000000 +01:00
 ---
 
 <<<<<<< HEAD

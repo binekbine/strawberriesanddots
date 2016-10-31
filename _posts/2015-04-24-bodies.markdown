@@ -1,10 +1,18 @@
 ---
 title: Bunt, bunt, bunt sind alle meine Kleider
+date: 2015-04-24 00:00:00 +02:00
+categories:
+- blog
+tags:
+- body
+- jersey
+- kinderstoffe
+- schnabelina
+- regenbogenbody
+- stoffwerkstatt
 layout: blog
-category: blog
-tags: [body, jersey, kinderstoffe, schnabelina, regenbogenbody, stoffwerkstatt]  
 summary: Bodys mit Farbe
-image: /images/blog/bodyhaufen.jpg
+image: "/images/blog/bodyhaufen.jpg"
 ---
 
 Bodys für Buben mit Racketen, Totenköpfen, Star Wars, Minions und Maschinen in den Farben blau, blau, blau, schwarz, grau und blau haben mich dazu gebracht einen eigenen Body zu nähen.

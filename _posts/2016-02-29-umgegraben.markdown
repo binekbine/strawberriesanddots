@@ -1,11 +1,24 @@
 ---
 title: umgegraben
+date: 2016-02-29 00:00:00 +01:00
+categories:
+- blog
+tags:
+- stoff & liebe
+- der kleine maulwurf
+- raglanpulli
+- bodys
+- hose
+- stoffwindel
+- nähfrosch
+- schnabelina
+- regenbogenbody
+- kinderkleidung
 layout: blog
-category: blog
-tags: [stoff & liebe, der kleine maulwurf, raglanpulli, bodys, hose, stoffwindel, nähfrosch, schnabelina, regenbogenbody, kinderkleidung]  
 summary: Der kleine Maulwurf
-image: /images/blog/Pauli2.jpg
+image: "/images/blog/Pauli2.jpg"
 ---
+
 Der Kleine Maulwurf und seine Freunde mit vorgedruckten Applikationen am Stoffrand von *Stoff & Liebe* ich einer der süßesten Stoffe, die ich je verarbeitet habe. Da muss schon was besonderes her: Eine Maulwirfkollektion für den Kleinen.
 
 Die Maulwurfkollektion für den Kleinen. Einen Pulli aus Sweat mit Applikationen und kleiner Spielerei an den Ärmeln.

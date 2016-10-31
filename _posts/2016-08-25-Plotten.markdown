@@ -1,10 +1,18 @@
 ---
 title: T-shirt für Große
+date: 2016-08-25 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- t-shirt sebastian
+- v-ausschnitt
+- rockerbuben
+- plotten
+- himmelgrau
 layout: blog
-category: blog
-tags: [jersey, t-shirt sebastian, v-ausschnitt, rockerbuben, plotten, himmelgrau]  
 summary: plotten und nähen
-image: /images/blog/plotten1.jpg
+image: "/images/blog/plotten1.jpg"
 ---
 
 Geschenke werden bei mir am liebsten nur mehr selbst genäht. Für meinen ganz besonderen Menschen zu einem ganz besonderen Anlass soll es dann auch was ganz besonderes sein:

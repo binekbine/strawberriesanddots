@@ -1,15 +1,24 @@
-permalink: /:categories/:title.html
+---
+title: Strawberriesanddots
+timezone: Europe/Vienna
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/:categories/:title.html"
 url: http://strawberriesanddots.at
 full_name: Strawberries and Dots
 first_name: Sabine
 last_name: Kniepeiss
 blog_title: Strawberries and Dots
-author_img_name_path: /images/users/user.jpg
+author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: pasinduland
-google_analytics_code: ""
-aboutme: "Ich nähe gerne"
-timezone: "Europe/Vienna"
-encoding: "utf-8"
+google_analytics_code: ''
+aboutme: Ich nähe gerne
+encoding: utf-8
 sass:
-  sass_dir:   _sass
-  style:      :compressed
+  sass_dir: _sass
+  style: :compressed

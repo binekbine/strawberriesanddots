@@ -1,10 +1,16 @@
 ---
 title: Beuteltasche
+date: 2016-08-08 00:00:00 +02:00
+categories:
+- blog
+tags:
+- webstoff
+- reste verwerten
+- beuteltasche
+- frau fadenschein
 layout: blog
-category: blog
-tags: [webstoff, reste verwerten, beuteltasche, frau fadenschein]  
 summary: ein Beutel voll Stolz
-image: /images/blog/Beutel.jpg
+image: "/images/blog/Beutel.jpg"
 ---
 
 Für den kommenden Urlaub ist alles gepackt. Aber irgdenwie fehlt mir die passende Tasche für unterwegs. Kurzerhand (am Abend vor der Abreise) habe ich beschlossen eine Beuteltasche muss her. Dank der spitzen Anleitung von *Frau Fadenschein* habe ich mir im Handumdrehen ein ... naja, nicht ganz so schnell. Ein bisschen kniffelig war es doch:

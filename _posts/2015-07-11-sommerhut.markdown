@@ -1,10 +1,17 @@
 ---
 title: Sommerhut
+date: 2015-07-11 00:00:00 +02:00
+categories:
+- blog
+tags:
+- sommerhut
+- schnabelina
+- webstoff
+- kinderstoffe
+- stoffwerkstatt
 layout: blog
-category: blog
-tags: [sommerhut, schnabelina, webstoff, kinderstoffe, stoffwerkstatt]  
 summary: tierisch, sommerlich
-image: /images/blog/sonnenhut1.jpg
+image: "/images/blog/sonnenhut1.jpg"
 ---
 
 ![sonnenhut]({{ site.baseurl }}/images/blog/sonnenhut2.jpg)

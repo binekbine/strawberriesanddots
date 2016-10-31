@@ -1,10 +1,20 @@
 ---
 title: T-shirts
+date: 2016-08-20 00:00:00 +02:00
+categories:
+- blog
+tags:
+- jersey
+- t-shirts
+- rundhalsausschnitt
+- v-ausschnitt
+- miro family
+- worawo
+- t-shirt sebastian
+- rockerbuben
 layout: blog
-category: blog
-tags: [jersey, t-shirts, rundhalsausschnitt, v-ausschnitt, miro family, worawo, t-shirt sebastian, rockerbuben]  
 summary: für den Großen
-image: /images/blog/shirtmann.jpg
+image: "/images/blog/shirtmann.jpg"
 ---
 
 Die T-shirts vom großen Mann werden nach jedem Waschgang kürzer, breiter und untragbarer. Zum Glück hab ich ja meine Nähmaschine. Kurzerhand werden also Schnittmuster gesucht: T-shirts für Männer. Hmmm ... das ist gar nicht so einfach.
